@@ -7,7 +7,7 @@ import {
     Nearbyjobs, Popularjobs, ScreenHeaderBtn, Welcome 
 } from '../components'
 
-const Home = () => {
+const Home = () => { //dekdejke
     const router = useRouter();
     return (
         <SafeAreaView style={{ flex: 1, backgroundColor: COLORS.lightWhite }}> 
